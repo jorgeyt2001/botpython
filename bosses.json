@@ -1,0 +1,16 @@
+[
+    {
+        "name": "Killa",
+        "description": "Un jefe que patrulla Interchange.",
+        "location": "Interchange",
+        "weakness": "Granadas",
+        "drops": ["Casco Killa", "Armadura Killa", "RPK-16"]
+    },
+    {
+        "name": "Gluhar",
+        "description": "El jefe de la estación militar en Reserve.",
+        "location": "Reserve",
+        "weakness": "Explosivos",
+        "drops": ["Armadura Tactec", "M4A1 SOPMOD", "Saiga-12"]
+    }
+]

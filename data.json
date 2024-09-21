@@ -1,0 +1,189 @@
+{
+
+  "ammunition": {
+    "12/70": {
+      "name": "12/70",
+      "description": "Munición para escopetas calibre 12.",
+      "damage": "70",
+      "penetration": "15",
+      "armor_class": "1",
+      "recoil": "Very High"
+    },
+    "20/70": {
+      "name": "20/70",
+      "description": "Munición para escopetas calibre 20.",
+      "damage": "50",
+      "penetration": "10",
+      "armor_class": "0",
+      "recoil": "High"
+    },
+    "23x75mm": {
+      "name": "23x75mm",
+      "description": "Munición de rifle para calibre 23x75mm.",
+      "damage": "60",
+      "penetration": "20",
+      "armor_class": "2",
+      "recoil": "Medium"
+    },
+    "30x29mm": {
+      "name": "30x29mm",
+      "description": "Munición para rifles con calibre 30x29mm.",
+      "damage": "65",
+      "penetration": "25",
+      "armor_class": "2",
+      "recoil": "High"
+    },
+    "0.366 TKM": {
+      "name": ".366 TKM",
+      "description": "Munición para rifles de asalto calibre .366 TKM.",
+      "damage": "55",
+      "penetration": "30",
+      "armor_class": "2",
+      "recoil": "Medium"
+    },
+    "40x46mm": {
+      "name": "40x46mm",
+      "description": "Munición para lanzadores de granadas.",
+      "damage": "80",
+      "penetration": "0",
+      "armor_class": "3",
+      "recoil": "Very High"
+    },
+    "4.6x30mm": {
+      "name": "4.6x30mm",
+      "description": "Munición para subfusiles calibre 4.6x30mm.",
+      "damage": "30",
+      "penetration": "35",
+      "armor_class": "1",
+      "recoil": "Medium"
+    },
+    "5.7x28mm": {
+      "name": "5.7x28mm",
+      "description": "Munición para pistolas calibre 5.7x28mm.",
+      "damage": "28",
+      "penetration": "25",
+      "armor_class": "1",
+      "recoil": "Low"
+    },
+    "5.56x45mm": {
+      "name": "5.56x45mm",
+      "description": "Munición para rifles calibre 5.56x45mm.",
+      "damage": "30",
+      "penetration": "30",
+      "armor_class": "1",
+      "recoil": "Medium"
+    },
+    "7.62x25mm": {
+      "name": "7.62x25mm",
+      "description": "Munición para pistolas y subfusiles calibre 7.62x25mm.",
+      "damage": "35",
+      "penetration": "25",
+      "armor_class": "1",
+      "recoil": "High"
+    },
+    "0.300 Blackout": {
+      "name": ".300 Blackout",
+      "description": "Munición para rifles con calibre .300 Blackout.",
+      "damage": "40",
+      "penetration": "30",
+      "armor_class": "2",
+      "recoil": "Medium"
+    },
+    "5.45x39mm": {
+      "name": "5.45x39mm",
+      "description": "Munición para rifles calibre 5.45x39mm.",
+      "damage": "28",
+      "penetration": "35",
+      "armor_class": "2",
+      "recoil": "Medium"
+    },
+    "7.62x51mm": {
+      "name": "7.62x51mm",
+      "description": "Munición para rifles de francotirador calibre 7.62x51mm.",
+      "damage": "60",
+      "penetration": "40",
+      "armor_class": "3",
+      "recoil": "High"
+    },
+    "7.62x39mm": {
+      "name": "7.62x39mm",
+      "description": "Munición para rifles de asalto calibre 7.62x39mm.",
+      "damage": "45",
+      "penetration": "35",
+      "armor_class": "2",
+      "recoil": "High"
+    },
+    "7.62x54mm": {
+      "name": "7.62x54mm",
+      "description": "Munición para rifles de francotirador calibre 7.62x54mm.",
+      "damage": "65",
+      "penetration": "45",
+      "armor_class": "3",
+      "recoil": "Very High"
+    },
+    ".338 Lapua": {
+      "name": ".338 Lapua",
+      "description": "Munición de francotirador de largo alcance calibre .338 Lapua.",
+      "damage": "80",
+      "penetration": "50",
+      "armor_class": "4",
+      "recoil": "Very High"
+    },
+    "9x18mm": {
+      "name": "9x18mm",
+      "description": "Munición para pistolas calibre 9x18mm.",
+      "damage": "22",
+      "penetration": "15",
+      "armor_class": "0",
+      "recoil": "Low"
+    },
+    "9x19mm": {
+      "name": "9x19mm",
+      "description": "Munición para pistolas y subfusiles calibre 9x19mm.",
+      "damage": "25",
+      "penetration": "20",
+      "armor_class": "1",
+      "recoil": "Medium"
+    },
+    "9x21mm": {
+      "name": "9x21mm",
+      "description": "Munición para pistolas calibre 9x21mm.",
+      "damage": "30",
+      "penetration": "25",
+      "armor_class": "2",
+      "recoil": "High"
+    },
+    ".357 Magnum": {
+      "name": ".357 Magnum",
+      "description": "Munición para pistolas revolver calibre .357 Magnum.",
+      "damage": "40",
+      "penetration": "35",
+      "armor_class": "2",
+      "recoil": "Very High"
+    },
+    "9x39mm": {
+      "name": "9x39mm",
+      "description": "Munición para rifles calibre 9x39mm.",
+      "damage": "50",
+      "penetration": "40",
+      "armor_class": "3",
+      "recoil": "High"
+    },
+    "12.7x55mm": {
+      "name": "12.7x55mm",
+      "description": "Munición para rifles de francotirador calibre 12.7x55mm.",
+      "damage": "75",
+      "penetration": "45",
+      "armor_class": "4",
+      "recoil": "Very High"
+    },
+    ".45 ACP": {
+      "name": ".45 ACP",
+      "description": "Munición para pistolas calibre .45 ACP.",
+      "damage": "35",
+      "penetration": "30",
+      "armor_class": "1",
+      "recoil": "High"
+    }
+  }
+}

@@ -1,0 +1,15 @@
+{
+    "ak47": {
+      "name": "AK-47",
+      "description": "Rifle de asalto ruso.",
+      "damage": 42,
+      "fire_rate": "600 RPM"
+    },
+    "m4a1": {
+      "name": "M4A1",
+      "description": "Fusil estándar del ejército estadounidense.",
+      "damage": 40,
+      "fire_rate": "750 RPM"
+    }
+  }
+  

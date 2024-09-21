@@ -70,7 +70,7 @@ Para obtener más información, visita el canal de **#informacion**.
 @bot.event
 async def on_member_join(member):
     # Canal de bienvenida, asegúrate de reemplazar 'welcome' con el nombre de tu canal
-    welcome_channel = discord.utils.get(member.guild.text_channels, name='general')
+    welcome_channel = discord.utils.get(member.guild.text_channels, name='general🔱')
 
     if welcome_channel:
         embed = discord.Embed(title="¡Bienvenido a **Escape from Tarkov**!", description=WELCOME_MESSAGE, color=0x00ff00)
